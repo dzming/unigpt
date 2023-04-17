@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "表级-简单权限控制",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-segmented-control": "/uni_modules/uni-segmented-control/components/uni-segmented-control/uni-segmented-control",
+    "alert-code": "/components/alertCode/alertCode",
+    "show-code": "/components/show-code/show-code",
+    "set-permission": "/components/set-permission/set-permission",
+    "uni-notice-bar": "/uni_modules/uni-notice-bar/components/uni-notice-bar/uni-notice-bar"
+  }
+}
